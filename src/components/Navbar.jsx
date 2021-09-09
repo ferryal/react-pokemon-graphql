@@ -19,6 +19,7 @@ const Container = styled.div`
   left: 0;
   width: 100vw;
   z-index: 2;
+  font-family: "Montserrat";
 `;
 
 const WrapperItem = styled.div`

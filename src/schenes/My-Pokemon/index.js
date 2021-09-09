@@ -65,6 +65,7 @@ const MyPokemon = () => {
             margin-top: 10rem;
             flex-direction: column;
             align-items: center;
+            font-family: "Montserrat";
           `}
         >
           <p css={css`font-weight: bold; font-size: 30px;`}>Empty list...</p>

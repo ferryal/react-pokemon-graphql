@@ -8,6 +8,7 @@ const Wrapper = styled.div`
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 6rem;
+  font-family: "Montserrat";
 `;
 
 const Layout = (props) => {

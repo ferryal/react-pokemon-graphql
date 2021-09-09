@@ -73,6 +73,7 @@ const Modal = (props) => {
       right: 0;
       bottom: 0;
       color: black;
+      font-family: "Montserrat";
     `}
     >
       <div
@@ -141,7 +142,7 @@ const Modal = (props) => {
               text-align: center;
             `}
             >
-              let`&#39;`s give nickname to your new friend!
+              let&#39;s give nickname to your new friend!
             </p>
             <input type="text" value={nickname} onChange={handleNicknameInput} placeholder="Give me a name" />
             <p
