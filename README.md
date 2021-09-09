@@ -40,8 +40,10 @@ run http://localhost:3000/
 
 ### Live Demo
 
-[Demo]()
+[https://react-pokemon-graphql.vercel.app/](https://react-pokemon-graphql.vercel.app/)
+
+[https://react-pokemon-graphql-ferryal.vercel.app/](https://react-pokemon-graphql-ferryal.vercel.app/)
 
 ### Lighthouse Report
 
-[See the report]()
+[See the report](https://drive.google.com/file/d/1FxIqNVi8LUeqGquABo9RjnZXTriCldDf/view?usp=sharing)
